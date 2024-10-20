@@ -123,4 +123,5 @@ AppGuard-Android/
 
 # Private
 lib/_env
+lib/_main.dart
 test
