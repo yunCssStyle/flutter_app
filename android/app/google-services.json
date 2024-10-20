@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "822415366927",
+    "project_id": "mine-warz",
+    "storage_bucket": "mine-warz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822415366927:android:db1e0e12bc79333fa07c7a",
+        "android_client_info": {
+          "package_name": "com.trimeta.minewarz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100858764027919100081",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQdKrbc7G3vAIvw76ZhshXWS7-H3FXFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100858764027919100081",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822415366927:android:1ce55c10b74091e4a07c7a",
+        "android_client_info": {
+          "package_name": "com.trimeta.minewarz.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100858764027919100081",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQdKrbc7G3vAIvw76ZhshXWS7-H3FXFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100858764027919100081",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822415366927:android:1ebc37239946dd38a07c7a",
+        "android_client_info": {
+          "package_name": "com.trimeta.minewarz.qa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100858764027919100081",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRQdKrbc7G3vAIvw76ZhshXWS7-H3FXFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100858764027919100081",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
